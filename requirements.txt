@@ -1,7 +1,7 @@
 pandas==0.25.0
 numpy==1.22.0
 matplotlib==3.0.0
-pymatgen==2019.3.27
+pymatgen==2024.2.20
 scikit-learn==0.20.3
 pypif==2.1.1
 citrination_client==5.2.0
